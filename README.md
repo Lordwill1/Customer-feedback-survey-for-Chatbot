@@ -6,4 +6,4 @@
 1. The Emotional Feedback xApp is a streamlined customer feedback collection tool designed to capture users' emotional responses to service interactions. This xApp integrates with Cognigy.AI to provide immediate emotional feedback data that can be used for quality assurance and service improvement.
 
 2. This document provides comprehensive documentation for the Customer Feedback xApp implementation designed to collect user ratings for live agent service quality within  Cognigy.AI flows.
-The xApp features a 5-star rating system with optional comments and automatic closure after submission. But for this product we are going to focus on the Emotional Feedback which also represents the star rating respectively..
+The xApp features a 5-star rating system with optional comments and automatic closure after submission. But for this product we are going to focus on the Emotional Feedback which also represents the star rating respectively.
